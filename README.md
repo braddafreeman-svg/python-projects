@@ -52,6 +52,11 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
    - Skills: string methods (replace/split/strip), loops, type conversion, basic counting
    - Folder: [09_thread_shed_sales_parser](./09_thread_shed_sales_parser)
 
+10. **Time Travel Generator**
+   - Generates a random time travel scenario with calculated travel cost and formatted output
+   - Skills: datetime, Decimal, random, custom modules, functions
+   - Folder: [10_time_travel_generator](./10_time_travel_generator)
+
 
 ## About Me
 
