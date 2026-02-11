@@ -34,6 +34,11 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
    - Folder: [05_gradebook](./05_gradebook)
 
 
+6. **Pizza Shop**
+   - Matches pizza toppings with prices, sorts them, and finds the cheapest options
+   - Skills: lists, count(), sorting, indexing, slicing, pop()
+   - Folder: [06_pizza_shop](./06_pizza_shop)
+
 
 
 ## About Me
