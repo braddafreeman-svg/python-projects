@@ -40,6 +40,13 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
    - Skills: loops, list comprehensions, indexing, calculations
    - Folder: [07_hair_salon_analysis](./07_hair_salon_analysis)
 
+
+8. **Physics Functions Project**
+   - Uses Python functions to calculate temperature conversions, force, energy, and work
+   - Skills: functions, parameters, default arguments, calculations, formatted output
+   - Folder: [08_physics_functions](./08_physics_functions)
+
+
 ## About Me
 
 I’m currently building my skills in Python, Machine Learning, and AI Engineering through hands-on projects and structured learning.
