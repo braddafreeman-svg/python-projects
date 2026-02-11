@@ -14,6 +14,15 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
    - Generates a simple customer receipt and calculates total cost including sales tax
    - Skills: variables, strings, arithmetic, formatting output
    - Folder: [02_furniture_store_receipt](./02_furniture_store_receipt)
+  
+
+   3. **Magic 8 Ball**
+   - A random fortune-telling program that outputs responses based on user questions
+   - Skills: random module, conditionals (if/elif/else), strings
+   - Folder: [03_magic_8_ball](./03_magic_8_ball)
+  
+
+   
 
 
 ## About Me
