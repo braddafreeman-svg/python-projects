@@ -47,6 +47,12 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
    - Folder: [08_physics_functions](./08_physics_functions)
 
 
+9. **Thread Shed Sales Parser**
+   - Parses messy sales text into clean transactions, calculates total sales, and counts thread colours sold
+   - Skills: string methods (replace/split/strip), loops, type conversion, basic counting
+   - Folder: [09_thread_shed_sales_parser](./09_thread_shed_sales_parser)
+
+
 ## About Me
 
 I’m currently building my skills in Python, Machine Learning, and AI Engineering through hands-on projects and structured learning.
