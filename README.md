@@ -70,6 +70,12 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
    - Folder: [12_password_security_project](./12_password_security_project)
 
 
+13. **Restaurant Franchise Simulator**
+   - Models menus, franchise locations, and businesses using object-oriented programming
+   - Skills: classes, methods, __repr__, dictionaries, lists of objects
+   - Folder: [13_restaurant_franchise_simulator](./13_restaurant_franchise_simulator)
+
+
 
 ## About Me
 
