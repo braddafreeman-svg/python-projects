@@ -7,7 +7,8 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
 1. **Initials ASCII Art (BF)**
    - Prints stylised initials using ASCII formatting
    - Skills: variables, strings, concatenation, print formatting
-   - Folder: `01_initials_ascii_art`
+   Folder: [01_initials_ascii_art](./01_initials_ascii_art)
+
 
 ## About Me
 
