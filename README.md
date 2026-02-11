@@ -26,6 +26,13 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
    - Calculates shipping costs using Ground, Premium Ground, and Drone delivery options
    - Skills: conditionals (if/elif/else), arithmetic operations, variables
    - Folder: [04_shipping_calculator](./04_shipping_calculator)
+  
+
+   5. **Gradebook Project**
+   - Creates and updates a gradebook using nested lists, including adding/removing subjects and combining semester records
+   - Skills: lists, nested lists, append/remove, updating values, printing formatted output
+   - Folder: [05_gradebook](./05_gradebook)
+
 
 
 
