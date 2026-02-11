@@ -22,7 +22,11 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
    - Folder: [03_magic_8_ball](./03_magic_8_ball)
   
 
-   
+4. **Shipping Calculator**
+   - Calculates shipping costs using Ground, Premium Ground, and Drone delivery options
+   - Skills: conditionals (if/elif/else), arithmetic operations, variables
+   - Folder: [04_shipping_calculator](./04_shipping_calculator)
+
 
 
 ## About Me
