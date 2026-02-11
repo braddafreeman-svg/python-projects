@@ -34,6 +34,12 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
    - Skills: lists, count(), sorting, indexing, slicing, pop()
    - Folder: [06_pizza_shop](./06_pizza_shop)
 
+
+7. **Hair Salon Analysis**
+   - Analyses salon pricing and revenue, including averages and discounted pricing
+   - Skills: loops, list comprehensions, indexing, calculations
+   - Folder: [07_hair_salon_analysis](./07_hair_salon_analysis)
+
 ## About Me
 
 I’m currently building my skills in Python, Machine Learning, and AI Engineering through hands-on projects and structured learning.
