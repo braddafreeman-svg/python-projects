@@ -58,6 +58,13 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
    - Folder: [10_time_travel_generator](./10_time_travel_generator)
 
 
+11. **Scrabble Score Calculator**
+   - Calculates Scrabble-style scores for words and totals points across multiple players
+   - Skills: dictionaries, zip(), comprehensions, functions, loops, .items()
+   - Folder: [11_scrabble_score_calculator](./11_scrabble_score_calculator)
+
+
+
 ## About Me
 
 I’m currently building my skills in Python, Machine Learning, and AI Engineering through hands-on projects and structured learning.
