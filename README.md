@@ -64,6 +64,12 @@ A collection of beginner-to-intermediate Python projects completed during Codeca
    - Folder: [11_scrabble_score_calculator](./11_scrabble_score_calculator)
 
 
+12. **Password Security Project**
+   - Reads compromised usernames from a CSV file and outputs results to text and JSON files
+   - Skills: file handling, csv module, json module, loops, writing files
+   - Folder: [12_password_security_project](./12_password_security_project)
+
+
 
 ## About Me
 
